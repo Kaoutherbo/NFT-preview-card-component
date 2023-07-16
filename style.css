@@ -46,10 +46,8 @@ main{
     display: flex;
     flex-direction: column;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px var(--Very-dark-blue-main);
     padding: 1.3rem;
     gap: 1.3rem;
-    position: relative;
 }
 main::after {
     content: "";
